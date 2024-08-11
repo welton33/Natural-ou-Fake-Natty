@@ -12,8 +12,12 @@ Olá pessoal, WELTON SANTOS _"Natty or Not"_
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 Foi gerado uma flor em vidro pelo IA LEONARDO
+Criar uma imagem da capital de minas gerais turistica
+
+![image](https://github.com/user-attachments/assets/ef891b17-3f2f-4ffa-8cbe-075c05745618)
 
 
+![image](https://github.com/user-attachments/assets/17f95578-d671-4318-9952-8c7663d80851)
 
 
 
